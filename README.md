@@ -30,11 +30,8 @@ conda install -c pyviz hvplot
 #
 * Author: [Skyler Khalachyan]( https://github.com/SkylerKhalachyan)
 * Contributors:
-     - Study Groups: Collaborated with multiple students to better understand the project.
-     - Students:
+     - Study Groups: Collaborated with Instructor and multiple students during class time to better understand the project.
      - Program:UC Berkeley Extension Data Analytics Bootcamp 
      - Starter Code:  Some starter code was provided
      - Instructor: Ahmad Sweed 
-     - Tutor:
-     - Reference Data:
 
