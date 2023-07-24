@@ -10,7 +10,7 @@
 * scikit learn
 
 
-###User Set Up
+### User Set Up
 #
 To create a copy that is ready to perform on your local computer follow these simple steps. 
 
@@ -23,11 +23,12 @@ conda install -c pyviz hvplot
 ### Installations
 1. Install the above package(s)
 ### Usage
-# Predicting time effect on the price of Cryptocurrency.
+# 
+* Predicting time effect on the price of Cryptocurrency.
  
 ### Acknowledgements
 #
-* Author:[Skyler Khalachyan]( https://github.com/SkylerKhalachyan)
+* Author: [Skyler Khalachyan]( https://github.com/SkylerKhalachyan)
 * Contributors:
      - Study Groups: Collaborated with multiple students to better understand the project.
      - Students:
